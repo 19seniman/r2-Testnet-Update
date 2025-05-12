@@ -1,4 +1,4 @@
-# R2 Money Bot
+# R2 Testnet
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 A powerful command-line trading bot for automating operations with USDC, R2USD, and sR2USD tokens on the Ethereum Sepolia testnet.
 
 link 
-https://r2.money?code=QETSZ
+https://r2.money?code=HWNIR
 
 ### Faucet 
 https://discord.gg/aYvzSU2F
@@ -26,10 +26,7 @@ https://discord.gg/aYvzSU2F
 | **Auto Mode** | Single-click to swap and stake in one seamless operation |
 | **Balance Checking** | Quick overview of all token balances across wallets |
 
-### 🔧 Advanced Tools
-| Feature | Description |
-|---------|-------------|
-| **Gas Optimization** | Fine-tune gas settings for each transaction type |
+
 
 ### 💼 Management
 | Feature | Description |
@@ -42,10 +39,10 @@ https://discord.gg/aYvzSU2F
 
 ```bash
 # Clone the repository
-git clone https://github.com/ZackyMrf/R2-bot
+git clone https://github.com/19seniman/r2-Testnet-Update.git
 
 # Navigate to the project directory
-cd R2-bot
+cd r2-Testnet-Update
 
 # Install dependencies
 npm install
@@ -55,7 +52,7 @@ npm install
 
 ### Private Keys
 
-Create a `.env` file in the project root with your private keys:
+Create a  nano .env file in the project root with your private keys:
 
 ```
 PRIVATE_KEY_1=0xyourprivatekeyhere
@@ -144,5 +141,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-source : https://github.com/airdropinsiders/
+
 
