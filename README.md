@@ -135,6 +135,14 @@ Customize transaction gas parameters:
 - [Etherscan Sepolia](https://sepolia.etherscan.io/) - Track your transactions
 - [Sepolia Faucet](https://sepoliafaucet.com/) - Get testnet ETH
 
+##  🍉 Donate for  watermelon
+
+**EVM Address**  
+`0xf01fb9a6855f175d3f3e28e00fa617009c38ef59`
+
+**via Dana**  
+`085830000502`
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
