@@ -596,8 +596,8 @@ async function stakeR2USD(wallet, amount) {
 function displayHeader() {
   console.clear();
   console.log('\n');
-  console.log(chalk.cyan(figlet.textSync('R2 Money Bot', { font: 'ANSI Shadow' })));
-  console.log(chalk.dim('                                        by Zacky Mrf'));
+  console.log(chalk.cyan(figlet.textSync('R2 automate', { font: 'ANSI Shadow' })));
+  console.log(chalk.dim('                                        19Seniman '));
   console.log('\n' + chalk.yellow('=' . repeat(70)) + '\n');
 }
 
