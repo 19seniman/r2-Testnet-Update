@@ -35,52 +35,33 @@ https://discord.gg/aYvzSU2F
 | **Proxy Integration** | Enhanced privacy with HTTP/HTTPS proxy support |
 | **Transaction History** | Track all your past operations in one place |
 
-## 📋 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/19seniman/r2-Testnet-Update.git
-
-# Navigate to the project directory
-cd r2-Testnet-Update
-
-# Install dependencies
+## Installation
+```
+git clone 
+```
+```
+cd
+```
+```
 npm install
 ```
-
-## ⚙️ Configuration
-
-### Private Keys
-
-Create a  nano .env file in the project root with your private keys:
-
 ```
-PRIVATE_KEY_1=0xyourprivatekeyhere
-PRIVATE_KEY_2=0xyoursecondprivatekeyhere
-# Add as many as needed
+nano .env
 ```
+format : PRIVATE_KEY_1= fill your pvkey
 
-### Proxies (Optional)
-
-Create a `proxies.txt` file with one proxy per line:
-
+Add your proxy ( optional )
 ```
-http://username:password@host:port
-host:port
+nano proxies.txt
 ```
-
-## 🚀 Usage
-
-Start the bot with:
-
-```bash
-npm start
+~ Run The Script
+```
+node index.js
 ```
 
 ### Main Menu
 
 ```
-R2 Money Bot
 
 =======================================================================
 
@@ -91,7 +72,8 @@ R2 Money Bot
   4. 💰  Check balances
   5. ⚡  Auto Mode (Swap → Stake)
   6. ⚙️  Gas Settings
-  8. 🚪  Exit
+  7. 🚪  Exit
+  8. 📌  wbtc to r2btc
 
   Select an option (1-10):
 ```
