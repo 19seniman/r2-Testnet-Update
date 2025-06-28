@@ -602,7 +602,7 @@ async function stakeR2USD(wallet, amount) {
 function displayHeader() {
   console.clear();
   console.log('\n');
-  console.log(chalk.cyan(figlet.textSync('19SENIMAN FROM INSIDER', { font: 'Geist' })));
+  console.log(chalk.cyan(figlet.textSync('19SENIMAN FROM INSIDER', { font: 'Dandy Jokes' })));
   console.log(chalk.dim('                                       R2 FINAL TESTNET'));
   console.log('\n' + chalk.yellow('=' . repeat(70)) + '\n');
 }
