@@ -287,7 +287,8 @@ async function displayBalances(wallets) {
         ['ETH', chalk.green(result.balances.eth)],
         ['USDC', chalk.green(result.balances.usdc)],
         ['R2USD', chalk.green(result.balances.r2usd)],
-        ['sR2USD', chalk.green(result.balances.sr2usd)]
+        ['sR2USD', chalk.green(result.balances.sr2usd)],
+        ['WBTC', chalk.green(result.balances.wbtc)]
       );
       
       console.log(table.toString());
