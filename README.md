@@ -50,7 +50,7 @@ nano .env
 ```
 format : PRIVATE_KEY_1= fill your pvkey
 
-Add your proxy ( optional )
+~ Add your proxy ( optional )
 ```
 nano proxies.txt
 ```
