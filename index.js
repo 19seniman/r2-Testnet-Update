@@ -10,7 +10,7 @@ const Table = require('cli-table3');
 
 // ======== CONFIG CONSTANTS ========
 const TOKEN_ADDRESSES = {
-  USDC: '0xc7BcCf452965Def7d5D9bF02943e3348F758D3CB',
+  USDC: '0x8BEbFCBe5468F146533C182dF3DFbF5ff9BE00E2',
   R2USD: '0x20c54c5f742f123abb49a982bfe0af47edb38756',
   SR2USD: '0xbd6b25c4132f09369c354bee0f7be777d7d434fa'
 };
