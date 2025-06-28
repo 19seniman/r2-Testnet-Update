@@ -616,7 +616,7 @@ function renderMainMenu() {
       { number: 5, icon: '⚡', text: 'Auto Mode (Swap → Stake)', color: 'blue' },
       { number: 6, icon: '⚙️', text: 'Gas Settings', color: 'white' },
       { number: 7, icon: '🚪', text: 'Exit', color: 'red' },
-     { number: 1, icon: '🔄', text: 'Swap WBTC to R2BTC', color: 'yellow' }
+     { number: 8, icon: '🔄', text: 'Swap WBTC to R2BTC', color: 'yellow' }
     ];
   
     console.log(chalk.bold.white('MAIN MENU'));
