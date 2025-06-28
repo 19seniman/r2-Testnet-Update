@@ -223,12 +223,14 @@ async function getBalances(wallet) {
   const usdcBalance = await checkTokenBalance(wallet, TOKEN_ADDRESSES.USDC);
   const r2usdBalance = await checkTokenBalance(wallet, TOKEN_ADDRESSES.R2USD);
   const sr2usdBalance = await checkTokenBalance(wallet, TOKEN_ADDRESSES.SR2USD);
+  const wbtcBalance = await checkTokenBalance(wallet, TOKEN_ADDRESSES.WBTC);
   
   return {
     eth: ethBalance,
     usdc: usdcBalance,
     r2usd: r2usdBalance,
-    sr2usd: sr2usdBalance
+    sr2usd: sr2usdBalance,
+    wbtc: ethBalance
   };
 }
 
