@@ -37,10 +37,10 @@ https://discord.gg/aYvzSU2F
 
 ## Installation
 ```
-git clone 
+git clone https://github.com/19seniman/r2-Testnet-Update.git
 ```
 ```
-cd
+cd r2-Testnet-Update
 ```
 ```
 npm install
